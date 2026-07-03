@@ -1,4 +1,4 @@
-# 
+# Secure AI Expense Tracker with NLP themes. Featuring speech-recognition and neural-networks — optimized for maximum performance.
 
 
 
